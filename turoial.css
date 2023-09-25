@@ -1,0 +1,34 @@
+.logo{
+    width: 7vh;
+    right: 7vh;
+}
+
+.col{
+    width: 9VH;
+    right: 9VH;
+    
+}
+img{
+    width: 15vh;
+    right: 15vh;
+}
+.h1{
+    font-family: 'Skranji', cursive;
+    color: rgb(15, 131, 2);
+}
+body{
+    background-color: black;
+
+}
+.p2{
+    color: green;
+}
+.p01{
+    color: white;
+}
+.p03{
+    color: green;
+}
+.p4{
+    color: purple
+}

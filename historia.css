@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    background-image: url(img02/img/imgcarrossel/cenario.jpeg);
+}
+
+.retangulo{
+    width: 1000px;
+    height: 700px;
+}
+img{
+    width: 15vh;
+    right: 15vh;
+}

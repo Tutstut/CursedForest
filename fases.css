@@ -1,0 +1,23 @@
+#container1{
+    font-family: 'Skranji', cursive;
+    
+}
+body{
+    background-color: black;
+}
+
+.titulo{
+   color: blueviolet;
+}
+
+#container2{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.titulo1{
+    color: rgb(223, 177, 28);
+}
+img{
+    width: 15vh;
+    right: 15vh;
+}
